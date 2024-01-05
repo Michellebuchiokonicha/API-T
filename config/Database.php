@@ -1,7 +1,7 @@
 <?php
  class Database {
     // DB Params
-    private $host = '127.0.0.1';
+    private $host = 'localhost';
     private $db_name = 'php_api';
     private $username = 'root';
     private $password = '123456';
